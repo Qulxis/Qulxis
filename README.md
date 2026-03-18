@@ -1,7 +1,7 @@
 <p align="right">
   <p align="center" style="font-size:25px;"><strong>Hi, I’m Andrew 👋 Weclome to my Github Page!</strong></p>
   <p align="center">
-      I’m an Electrical Engineer and Data Scientist </br>
+      MLOps Engineer with SWE and DS Experience </br>
       Columbia University and Rice University
       
       Here's some of my interests:
