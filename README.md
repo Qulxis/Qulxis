@@ -26,9 +26,7 @@ class Engineer:
                             "Rice University": "BS Electrical Engineering",
                             "Columbia University": "MS Electrical Engineering",
                             }
-        self.skills       = ["Deep Learning", "Reinforcement Learning", "AI",
-                            "Machine Learning", "Algorithms", "Big Data Analytics", 
-                            "Signal Processing"]
+        self.skills       = ["Machine Learning", "SWE", "Devops", "Data Science"]
         self.connect      = "https://www.linkedin.com/in/andrewhsuxavier/"
     
     def getHistory():
